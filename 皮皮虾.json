@@ -1,0 +1,9 @@
+{
+    "导演": "vod_director\":\"&&\"",
+    "主演": "vod_actor\":\"&&\"",
+    "简介": "+introduction\">&&</p>",
+    "线路数组": "class=\"module-tab-item tab-item&&</small>",
+    "线路标题": ">&&<small",
+    "分类url": "http://www.ppxys.vip/s/{cateId}/by/{by}/page/{catePg}.html",
+    "分类": "电视剧$1#电影$2#动漫$3"
+}
