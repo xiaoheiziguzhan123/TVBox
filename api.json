@@ -369,7 +369,7 @@
             "key": "光影",
             "name": "光影",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "ext": "./光影.js"
         },
         {
